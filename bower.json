@@ -1,0 +1,11 @@
+{
+  "name": "arrayjs",
+  "version": "0.1",
+  "main": "./array.js",
+  "ignore": [
+    "bower_components",
+    "*_test.html",
+    "*_test.js"
+  ]
+}
+
