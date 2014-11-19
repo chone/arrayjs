@@ -1,6 +1,6 @@
 {
-  "name": "arrayjs",
-  "version": "0.1",
+  "name": "array.js",
+  "version": "0.1.1",
   "main": "./array.js",
   "ignore": [
     "bower_components",
